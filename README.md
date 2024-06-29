@@ -1,5 +1,6 @@
 # Harlot
-https://github.com/samuelships/harlot/assets/51783214/aa3a0e8a-73b8-4e22-8f26-b159519d0d52
+
+https://github.com/samuelships/harlot/assets/51783214/1e5670db-0b49-4d36-988d-4916d9b25b9d
 
 **Harlot** exposes any service that speaks TCP behind a NAT to the public internet
 
