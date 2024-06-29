@@ -9,7 +9,7 @@ https://github.com/samuelships/harlot/assets/51783214/1e5670db-0b49-4d36-988d-49
 Ensure Go (1.15 or later) is installed.
 
 ```
-git clone https://github.com/yourusername/harlot.git
+git clone https://github.com/samuelships/harlot.git
 cd harlot
 go build -o harlot_platform
 ```
